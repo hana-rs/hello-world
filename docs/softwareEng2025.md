@@ -1,3 +1,10 @@
+---
+layout: page
+title: "software Eng. lecture note"
+permalink: /docs/softwareEng2025
+---
+
+
 # ソフトウェア工学の内容まとめ
 ## 第1回
 ### ガイダンス
